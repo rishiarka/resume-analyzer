@@ -17,3 +17,14 @@ An interactive web app that analyzes how well a resume matches a job description
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📸 Screenshots
+
+### Home
+![Home](images/home.png)
+
+### Input
+![Input](images/input.png)
+
+### Result
+![Result](images/result.png)
