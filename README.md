@@ -2,6 +2,10 @@
 
 An interactive web app that analyzes how well a resume matches a job description.
 
+# 🧠 Resume Analyzer
+
+🚀 [Live Demo](https://resume-analyzer-mckxumurzygypg78avnkfj.streamlit.app/)
+
 ## 🚀 Features
 - Upload PDF resume
 - Compare with job description
